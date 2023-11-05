@@ -1,3 +1,14 @@
+# Pratikum3 - HTML - CSS
+
+===========================================================================<br>
+
+<p align="center">
+ &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
+  &#128640<b>NIM           :  312210300</b>&#128640 <br>
+ &#128640<b>Mata Kuliah   :  Pemrograman Web</b>&#128640 <br>
+</p>
+===========================================================================<br><br>
+
 # 1. Membuat List (Ordered List)
 
 Ini adalah tahapan code nya <br>
@@ -46,3 +57,10 @@ Ini adalah tahapan code nya <br>
 ![Alt text](<README/code dropdown.png>)<br>
 Ini adalah tampilan hasil nya <br>
 ![Alt text](<README/hasil dropdown.png>) <br><br>
+
+===========================================================================<br>
+
+<p align="center">
+ &#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br>
