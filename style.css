@@ -1,0 +1,49 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  color: #080808;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f2f2f2;
+}
+form {
+  background-color: #fff;
+  padding: 100px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+select,
+ul {
+  display: block;
+  width: 200px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 5px solid #09f1d3;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  max-height: 100px;
+  overflow-y: auto;
+}
+button {
+  background-color: #00ca54;
+  color: rgb(250, 250, 250);
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #05752a;
+}
