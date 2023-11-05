@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form, List</title>
+</head>
+<body>
+    <h2>Membuat Table</h2>
+    <table border="1">
+        <tr>
+        <td colspan="2">Baris 1 kolom 1</td>
+        </tr>
+        <tr>
+        <td>Baris 2 kolom 1</td>
+        <td>baris 2 kolom 2</td>
+        </tr>
+        <tr>
+        <td>Baris 3 kolom 1</td>
+        <td>baris 3 kolom 2</td>
+        </tr>
+        <tr>
+        <td rowspan="2">Baris 4 kolom 1</td>
+        <td>baris 4 kolom 2</td>
+        </tr>
+        <tr>
+        <td>baris 5 kolom 2</td>
+        </tr>
+        </table>
+
+        <!-- Membuat Form -->
+        <h2>Membuat Form</h2>
+        <form action="proses.php" method="post">
+            <fieldset>
+            <legend>Login</legend>
+            <p>
+            <label for="uname">Username</label>
+            <input type="text" id="uname" name="username">
+            </p>
+            <p>
+            <label for="passwd">Password</label>
+            <input type="password" id="passwd" name="password">
+            </p>
+            <p><input type="submit" value="Login"></p>
+            </fieldset>
+            </form>
+</body>
+</html>
